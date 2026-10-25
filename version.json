@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.0.2",
-  "Title": "🍇 SalkımCraft Launcher v1.0.2 - Kararlılık ve Mod Yaması",
-  "Changelog": "• Otomatik güncelleme motoru ve dosya eşitleme sistemi optimize edildi.\n• Tüm 54 adet onaylı mod ve yapılandırma dosyaları güncellendi.\n• Fresh Animations ve Immersive Interfaces kaynak paketleri eşitlendi.\n• Başlatıcı kararlılık ve performans iyileştirmeleri uygulandı.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.2/salkimcraftlauncher.zip",
+  "LatestVersion": "1.0.3",
+  "Title": "🍇 SalkımCraft Launcher v1.0.3 - Modern Tasarım, Yeni Animasyonlar ve Kararlı Sürüm",
+  "Changelog": "• Başlatıcı arayüzü modern animasyonlar, nabız atan neon efektleri ve interaktif kartlarla zenginleştirildi.\n• Sinematik yükleme ekranı yenilendi: Mojang motoru açılırken senkronize geri sayım ve 3 dakikalık güvenlik süresi eklendi.\n• Oyun doğrudan tam ekran modunda başlatılacak şekilde optimize edildi.\n• Eski sürümlerden güncellerken çökme yaratan modları otomatik temizleyen kararlı güncelleme sistemi entegre edildi.\n• Sleep Tight kamera çakışması ve çift ekran kartlı sistemlerdeki pencereli/tam ekran çökmeleri tamamen giderildi.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.3/salkimcraftlauncher.zip",
   "PackageType": "Full",
-  "Mandatory": false,
+  "Mandatory": true,
   "ReleaseDate": "2026-10-26",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 592817716
 }

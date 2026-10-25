@@ -1,6 +1,6 @@
 {
-  "LatestVersion": "1.0.0",
-  "Title": "🍇 SalkımCraft Launcher v1.0.0 - Büyük Açılış!",
+  "LatestVersion": "1.0.1",
+  "Title": "🍇 SalkımCraft Launcher v1.0.1 - Büyük Açılış!",
   "Changelog": "• Özel Fresh Animations ve Immersive Interfaces kaynak paketleri aktif edildi.\n• SalkımCraft resmi sunucu ağına doğrudan kiosk kilidi bağlandı.\n• 19 adet dahili sinematik shader paketi önbelleğe alındı.\n• Tam otomatik güncelleme motoru entegre edildi.",
   "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/latest/download/SalkimCraftLauncher.exe",
   "PackageType": "Full",

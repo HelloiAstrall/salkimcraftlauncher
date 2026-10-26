@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.0.5",
-  "Title": "🚀 SalkımCraft Launcher v1.0.5 - Distant Horizons Kaldırıldı & Performans Güncellemesi",
-  "Changelog": "• [Mod Paketi] Distant Horizons (uzak çizim motoru) ve ilgili tüm önbellek verileri mod paketinden tamamen kaldırıldı.\n• [Performans Artışı] Arka planda çalışan ağır LOD harita hesaplamaları sonlandırılarak oyun içi FPS ve akıcılık artırıldı.\n• [Bellek Tasarrufu] RAM ve disk kullanımındaki gereksiz yük temizlendi; çökme ve takılma ihtimalleri minimuma indirildi.\n• [Zorunlu Güncelleme] Tüm oyuncuların senkronize ve kesintisiz bağlanabilmesi için v1.0.5 sürümüne geçiş zorunlu kılındı.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.5/salkimcraftlauncher.zip",
+  "LatestVersion": "1.0.6",
+  "Title": "🚀 SalkımCraft Launcher v1.0.6 - Kaynak Paketi & Otomatik Güncelleme Koruması",
+  "Changelog": "• [Animasyon] Fresh Animations kaynak paketi kalıcı olarak aktif edildi.\n• [Canlı Tespit] Oyundayken yeni güncelleme yayınlandığında anında oyundan atarak zorunlu güncellemeyi gösterir.\n• [Güncelleme Motoru] Silinen mod ve müziklerin istemciden otomatik temizlenmesi (ayna senkronizasyonu) sağlandı.\n• [İstemci Güvenliği] Arka planda açık oyun tespiti ve buton koruması eklendi.\n• [Performans] Başlatıcı ve arayüz kararlılığı artırıldı.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.6/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
   "ReleaseDate": "2026-10-26",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 252000000
 }

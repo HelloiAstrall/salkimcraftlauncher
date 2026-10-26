@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.0.3",
-  "Title": "🍇 SalkımCraft Launcher v1.0.3 - Modern Tasarım, Yeni Animasyonlar ve Kararlı Sürüm",
-  "Changelog": "• Başlatıcı arayüzü modern animasyonlar, nabız atan neon efektleri ve interaktif kartlarla zenginleştirildi.\n• Sinematik yükleme ekranı yenilendi: Mojang motoru açılırken senkronize geri sayım ve 3 dakikalık güvenlik süresi eklendi.\n• Oyun doğrudan tam ekran modunda başlatılacak şekilde optimize edildi.\n• Eski sürümlerden güncellerken çökme yaratan modları otomatik temizleyen kararlı güncelleme sistemi entegre edildi.\n• Sleep Tight kamera çakışması ve çift ekran kartlı sistemlerdeki pencereli/tam ekran çökmeleri tamamen giderildi.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.3/salkimcraftlauncher.zip",
+  "LatestVersion": "1.0.5",
+  "Title": "🚀 SalkımCraft Launcher v1.0.5 - Distant Horizons Kaldırıldı & Performans Güncellemesi",
+  "Changelog": "• [Mod Paketi] Distant Horizons (uzak çizim motoru) ve ilgili tüm önbellek verileri mod paketinden tamamen kaldırıldı.\n• [Performans Artışı] Arka planda çalışan ağır LOD harita hesaplamaları sonlandırılarak oyun içi FPS ve akıcılık artırıldı.\n• [Bellek Tasarrufu] RAM ve disk kullanımındaki gereksiz yük temizlendi; çökme ve takılma ihtimalleri minimuma indirildi.\n• [Zorunlu Güncelleme] Tüm oyuncuların senkronize ve kesintisiz bağlanabilmesi için v1.0.5 sürümüne geçiş zorunlu kılındı.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.5/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
   "ReleaseDate": "2026-10-26",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 252000000
 }

@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.0.6",
-  "Title": "🚀 SalkımCraft Launcher v1.0.6 - Kaynak Paketi & Otomatik Güncelleme Koruması",
-  "Changelog": "• [Animasyon] Fresh Animations kaynak paketi kalıcı olarak aktif edildi.\n• [Canlı Tespit] Oyundayken yeni güncelleme yayınlandığında anında oyundan atarak zorunlu güncellemeyi gösterir.\n• [Güncelleme Motoru] Silinen mod ve müziklerin istemciden otomatik temizlenmesi (ayna senkronizasyonu) sağlandı.\n• [İstemci Güvenliği] Arka planda açık oyun tespiti ve buton koruması eklendi.\n• [Performans] Başlatıcı ve arayüz kararlılığı artırıldı.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.6/salkimcraftlauncher.zip",
+  "LatestVersion": "1.0.7",
+  "Title": "🚀 SalkımCraft Launcher v1.0.7 - Arka Plan Videosu & Akıcı Müzik Geçişleri",
+  "Changelog": "• [Yükleme Ekranı] Sinematik 1080p arka plan videosu geri getirildi ve kesintisiz döngüye bağlandı.\n• [Ses & Müzik] Launcher açılışında, parça değişiminde ve duraklatmada 2-3 saniyelik akıcı fade-in / fade-out eklendi.\n• [Oyun Deneyimi] Minecraft başladığında müziğin yumuşakça kısılarak oyuna aktarılması sağlandı.\n• [Kararlılık] Thread-safe ses motoru ve optimize edilmiş başlatıcı kontrolleri.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.7/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
   "ReleaseDate": "2026-10-26",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 252000000
 }

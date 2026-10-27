@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.0.8",
-  "Title": "🍇 SalkımCraft v1.0.8 - Yeni Boyutlar & Oyun İçi Macera Güncellemesi",
-  "Changelog": "• [Yeni Boyutlar & Keşif] BetterNether ve Enderscape eklendi; Nether ve End boyutları yeni biyomlar, bitkiler, yapılar ve yaratıklarla zenginleştirildi.\n• [Oyun İçi İletişim] Mattupolis Phone (akıllı telefon ve iletişim sistemi) oyuna dahil edildi.\n• [Sosyal & Etkileşim] Piggyback (arkadaşlarını sırtta taşıma) ve Care to Share (hızlı eşya paylaşımı) özellikleri aktif edildi.\n• [Görsel & Animasyon] Gelişmiş partikül etkileşimleri, yeni silah animasyonları ve zırh detaylandırmaları (Trim Patcher) eklendi.\n• [Altyapı & Kararlılık] YACL v3, BCLib, Lithostitched ve FaewulfLib kütüphaneleriyle tam entegrasyon sağlandı.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.0.8/salkimcraftlauncher.zip",
+  "LatestVersion": "1.1.0",
+  "Title": "🌿🍇 SalkımCraft v1.1.0 - Doğa & Yeşil Sarmaşık Büyük Güncellemesi",
+  "Changelog": "• [Büyük Tema & Görsel Yenilik] Büyüleyici zümrüt yeşili sarmaşık (vine) ve doğa temalı SalkımCraft v1.1.0 arayüzü yayınlandı.\n• [3D Karakter & Skin Yöneticisi] Modern WebGL tabanlı interaktif 3D skin önizleme motoru, özel skin yükleme ve NameMC uyumlu hesap skini çekme sistemi entegre edildi.\n• [Yeni Modlar & Bütünlük] 89 modluk zenginleştirilmiş mod paketi ve korumalı bütünlük motoru güncellendi.\n• [Kararlılık & Bağlantı Düzeltmeleri] Sunucu bağlantı uyumluluğu, Lithium nitelik optimizasyon ayarları ve kesintisiz otomatik giriş sistemi tamamlandı.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.1.0/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
   "ReleaseDate": "2026-10-27",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 614051841
 }

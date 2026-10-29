@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.1.0",
-  "Title": "🌿🍇 SalkımCraft v1.1.0 - Doğa & Yeşil Sarmaşık Büyük Güncellemesi",
-  "Changelog": "• [Büyük Tema & Görsel Yenilik] Büyüleyici zümrüt yeşili sarmaşık (vine) ve doğa temalı SalkımCraft v1.1.0 arayüzü yayınlandı.\n• [3D Karakter & Skin Yöneticisi] Modern WebGL tabanlı interaktif 3D skin önizleme motoru, özel skin yükleme ve NameMC uyumlu hesap skini çekme sistemi entegre edildi.\n• [Yeni Modlar & Bütünlük] 89 modluk zenginleştirilmiş mod paketi ve korumalı bütünlük motoru güncellendi.\n• [Kararlılık & Bağlantı Düzeltmeleri] Sunucu bağlantı uyumluluğu, Lithium nitelik optimizasyon ayarları ve kesintisiz otomatik giriş sistemi tamamlandı.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.1.0/salkimcraftlauncher.zip",
+  "LatestVersion": "1.1.1",
+  "Title": "🌿 SalkımCraft v1.1.1 - Skin & FreshAnimations Güvencesi & Discord RPC",
+  "Changelog": "✨ [Görünüm & Skin Mimarisi] Kaynak paketi zip hataları tamamen sonlandırıldı; klasör tabanlı dinamik model eşleme ve sunucu geneli otomatik skin senkronizasyonu devreye alındı.\n✨ [FreshAnimations Güvencesi] FreshAnimations kaynak paketi zorunlu ve kalıcı hale getirildi; silinmelere karşı otomatik kurtarma ve kesintisiz aktiflik sağlandı.\n✨ [Discord Rich Presence] Oyunda ve başlatıcıda 'SalkımCraft Oynuyor...' durumu gerçek zamanlı Discord durum entegrasyonuyla eklendi.\n✨ [Ses Dengelemesi] Başlatıcı ve açılış ekranı başlangıç müzik seviyesi oyuncu konforu için %20 seviyesine optimize edildi.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.1.1/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
-  "ReleaseDate": "2026-10-27",
-  "FileSizeBytes": 0
+  "ReleaseDate": "2026-10-29",
+  "FileSizeBytes": 614051841
 }

@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.1.1",
-  "Title": "🌿 SalkımCraft v1.1.1 - Skin & FreshAnimations Güvencesi & Discord RPC",
-  "Changelog": "✨ [Görünüm & Skin Mimarisi] Kaynak paketi zip hataları tamamen sonlandırıldı; klasör tabanlı dinamik model eşleme ve sunucu geneli otomatik skin senkronizasyonu devreye alındı.\n✨ [FreshAnimations Güvencesi] FreshAnimations kaynak paketi zorunlu ve kalıcı hale getirildi; silinmelere karşı otomatik kurtarma ve kesintisiz aktiflik sağlandı.\n✨ [Discord Rich Presence] Oyunda ve başlatıcıda 'SalkımCraft Oynuyor...' durumu gerçek zamanlı Discord durum entegrasyonuyla eklendi.\n✨ [Ses Dengelemesi] Başlatıcı ve açılış ekranı başlangıç müzik seviyesi oyuncu konforu için %20 seviyesine optimize edildi.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.1.1/salkimcraftlauncher.zip",
+  "LatestVersion": "1.1.2",
+  "Title": "🌿 SalkımCraft v1.1.2 - 17 Yeni Mod, Görsel & Yaşam Kalitesi Güncellemesi",
+  "Changelog": "✨ [17 Yeni Mod] Sodium Extra, Chat Heads, BetterF3, Smooth Swapping, Right Click Harvest, Diagonal Fences, Do A Barrel Roll ve Sinematik Etkileşimler eklendi.\n✨ [Arayüz & Sosyal] Sohbet kafaları (Chat Heads), özelleştirilmiş F3 ekranı, modern bildirimler (Fancy Toasts) ve BetterF1 sinematik modu devreye alındı.\n✨ [Grafik & Optimizasyon] Sodium Extra entegrasyonu, yumuşak yapraklar (Soft Leaves) ve pürüzsüz yükleme ekranı ile performans artırıldı.\n✨ [Oynanış & Kolaylık] Çapraz çitler (Diagonal Fences), tek tıkla hasat (Right Click Harvest) ve 360° Elytra takla mekaniği eklendi.\n✨ [Dosya Doğrulama] Toplam 106 mod istemci ve sunucu uyumlu olarak paketlendi ve kütüphane altyapıları güncellendi.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.1.2/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
   "ReleaseDate": "2026-10-29",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 627592844
 }

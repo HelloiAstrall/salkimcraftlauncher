@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "1.1.2",
-  "Title": "🌿 SalkımCraft v1.1.2 - 17 Yeni Mod, Görsel & Yaşam Kalitesi Güncellemesi",
-  "Changelog": "✨ [17 Yeni Mod] Sodium Extra, Chat Heads, BetterF3, Smooth Swapping, Right Click Harvest, Diagonal Fences, Do A Barrel Roll ve Sinematik Etkileşimler eklendi.\n✨ [Arayüz & Sosyal] Sohbet kafaları (Chat Heads), özelleştirilmiş F3 ekranı, modern bildirimler (Fancy Toasts) ve BetterF1 sinematik modu devreye alındı.\n✨ [Grafik & Optimizasyon] Sodium Extra entegrasyonu, yumuşak yapraklar (Soft Leaves) ve pürüzsüz yükleme ekranı ile performans artırıldı.\n✨ [Oynanış & Kolaylık] Çapraz çitler (Diagonal Fences), tek tıkla hasat (Right Click Harvest) ve 360° Elytra takla mekaniği eklendi.\n✨ [Dosya Doğrulama] Toplam 106 mod istemci ve sunucu uyumlu olarak paketlendi ve kütüphane altyapıları güncellendi.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v1.1.2/salkimcraftlauncher.zip",
+  "LatestVersion": "2.0.0",
+  "Title": "🍇 SalkımCraft v2.0.0 - Büyük Görsel Yenilenme, SalkimAC 2.0 & Asil Tema Güncellemesi",
+  "Changelog": "✨ [Major v2.0.0 Güncellemesi] Launcher baştan aşağı yenilendi; asil salkım ve üzüm estetiğinde çok daha sıcak tonlar, modern cam efektleri ve akıcı UI tasarımı getirildi.\n🛡️ [SalkimAC v2.0 & Güvenlik] Yeni nesil anti-cheat ve bellek koruması devreye alındı. SHA-256 bütünlük doğrulaması, Zip-Slip zırhı ve güvenli Java yürütme mimarisi eklendi.\n⚡ [Turbo Paralel İndirme] 32-48 çok kanallı soket mimarisi ve 256 KB yüksek hızlı veri tamponu ile limitsiz indirme hızı sağlandı.\n🎨 [Dinamik Çok Oyunculu Skin Sistemi] CustomSkinLoader entegrasyonu ile herkes hem kendi skinini hem de diğer oyuncuların gerçek skinini görür, aynı skin görünme sorunu tamamen giderildi.\n🚀 [Genişletilmiş Mod Paketi] Fabric 26.1.2 altyapısı, 134 entegre mod ve 19 sinematik shader paketi v2.0 standartlarına optimize edildi.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v2.0.0/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
-  "ReleaseDate": "2026-10-29",
-  "FileSizeBytes": 0
+  "ReleaseDate": "2026-10-30",
+  "FileSizeBytes": 1
 }

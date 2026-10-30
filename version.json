@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "2.0.0",
-  "Title": "🍇 SalkımCraft v2.0.0 - Büyük Görsel Yenilenme, SalkimAC 2.0 & Asil Tema Güncellemesi",
-  "Changelog": "✨ [Major v2.0.0 Güncellemesi] Launcher baştan aşağı yenilendi; asil salkım ve üzüm estetiğinde çok daha sıcak tonlar, modern cam efektleri ve akıcı UI tasarımı getirildi.\n🛡️ [SalkimAC v2.0 & Güvenlik] Yeni nesil anti-cheat ve bellek koruması devreye alındı. SHA-256 bütünlük doğrulaması, Zip-Slip zırhı ve güvenli Java yürütme mimarisi eklendi.\n⚡ [Turbo Paralel İndirme] 32-48 çok kanallı soket mimarisi ve 256 KB yüksek hızlı veri tamponu ile limitsiz indirme hızı sağlandı.\n🎨 [Dinamik Çok Oyunculu Skin Sistemi] CustomSkinLoader entegrasyonu ile herkes hem kendi skinini hem de diğer oyuncuların gerçek skinini görür, aynı skin görünme sorunu tamamen giderildi.\n🚀 [Genişletilmiş Mod Paketi] Fabric 26.1.2 altyapısı, 134 entegre mod ve 19 sinematik shader paketi v2.0 standartlarına optimize edildi.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v2.0.0/salkimcraftlauncher.zip",
+  "LatestVersion": "2.0.1",
+  "Title": "🍇 SalkımCraft v2.0.1 - Yeni Modlar & Performans Güncellemesi",
+  "Changelog": "✨ [v2.0.1 Güncellemesi]\n🌿 [Yeni Mod Paketi] Double Doors, Mod Menu, Trash Cans, Punchy ve Spatial GUI modları eklendi (Toplam 139 stabil mod).\n🚀 [Optimizasyon] DayZ Inventory, First Person, Cinematic Interaction ve Carry On modları kaldırılarak FPS ve başlatma hızları artırıldı.\n🛡️ [Arayüz & Gizlilik] Sunucu IP adresi arayüzde gizlendi, canlı sunucu durumu ve aktif oyuncu sayacı modernize edildi.\n⚡ [SalkimAC 2.0] Paket bütünlüğü ve bellek güvenliği v2.0.1 standartlarına güncellendi.",
+  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v2.0.1/salkimcraftlauncher.zip",
   "PackageType": "Full",
   "Mandatory": true,
   "ReleaseDate": "2026-10-30",
-  "FileSizeBytes": 0
+  "FileSizeBytes": 1
 }

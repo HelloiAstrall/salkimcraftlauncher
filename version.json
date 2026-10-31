@@ -1,10 +1,10 @@
 {
-  "LatestVersion": "2.0.1",
-  "Title": "🍇 SalkımCraft v2.0.1 - Yeni Modlar & Performans Güncellemesi",
-  "Changelog": "✨ [v2.0.1 Güncellemesi]\n🌿 [Yeni Mod Paketi] Double Doors, Mod Menu, Trash Cans, Punchy ve Spatial GUI modları eklendi (Toplam 139 stabil mod).\n🚀 [Optimizasyon] DayZ Inventory, First Person, Cinematic Interaction ve Carry On modları kaldırılarak FPS ve başlatma hızları artırıldı.\n🛡️ [Arayüz & Gizlilik] Sunucu IP adresi arayüzde gizlendi, canlı sunucu durumu ve aktif oyuncu sayacı modernize edildi.\n⚡ [SalkimAC 2.0] Paket bütünlüğü ve bellek güvenliği v2.0.1 standartlarına güncellendi.",
-  "DownloadUrl": "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v2.0.1/salkimcraftlauncher.zip",
-  "PackageType": "Full",
-  "Mandatory": true,
-  "ReleaseDate": "2026-10-30",
-  "FileSizeBytes": 0
+    "LatestVersion":  "2.0.2",
+    "Title":  "🍇 SalkımCraft v2.0.2 - TLauncher Skin/Cape \u0026 Kararlılık Güncellemesi",
+    "Changelog":  "✨ [v2.0.2 Güncellemesi]\n👕 [TLauncher Skin \u0026 Cape] TLauncher skin ve pelerin desteği eklendi.\n🧹 [Otomatik Mod Temizliği] Çakışan modlar (CustomSkinLoader, 3D Skin Layers, Wavey Capes, Entity Culling, Not Enough Animations) sistemden kökten temizlendi.\n📦 [136 Kararlı Mod] Mod dizini sıfırlanıp 136 resmi mod paketi ile tam senkronize edildi.\n🛡️ [Bütünlük Zırhı] Eski veya çakışan modların geri yüklenmesi engellendi.",
+    "DownloadUrl":  "https://github.com/HelloiAstrall/salkimcraftlauncher/releases/download/v2.0.2/salkimcraftlauncher.zip",
+    "PackageType":  "Full",
+    "Mandatory":  true,
+    "ReleaseDate":  "2026-10-31",
+    "FileSizeBytes":  0
 }
